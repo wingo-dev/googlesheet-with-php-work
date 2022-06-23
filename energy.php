@@ -57,7 +57,7 @@ while ($site = fgets($fn)) {
     echo $start_date . "<br>";
     echo $end_date . "<br>";
 
-    $title = $site_id . "_" . $start_date . "_" . $end_date;
+    // $title = $site_id . "_" . $start_date . "_" . $end_date;
 
     $no = 0;
     $the_month = 0;
